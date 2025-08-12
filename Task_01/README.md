@@ -1,3 +1,4 @@
+# Project Title: EDA on Retail Sales Data
 # 📊 Task 01 - Amazon Dataset Exploratory Data Analysis
 
 ## 📌 Overview
